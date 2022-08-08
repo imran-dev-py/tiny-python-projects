@@ -1,0 +1,18 @@
+Chapter 1 Silly Name Generator.html
+Chapter 2 Finding Palingram Spells.html
+Chapter 3 Solving Anagrams.html
+Chapter 4 Decoding American Civil War Ciphers.html
+Chapter 5 Encoding English Civil War Ciphers.html
+Chapter 6 Writing in Invisible Ink.html
+Chapter 7 Breeding Giant Rats with Genetic Algorithms.html
+Chapter 8 Counting Syllables for Haiku Poetry.html
+Chapter 9 Writing Haiku with Markov Chain Analysis.html
+Chapter 10 Are We Alone - Exploring the Fermi Paradox.html
+Chapter 11 The Monty Hall Problem.html
+Chapter 12 Securing your Nest Egg.html
+Chapter 13 Simulating an Alien Volcano.html
+Chapter 14 Mapping Mars with the Mars Orbiter.html
+Chapter 15 Improving Your Astrophotography with Planet Stacking.html
+Chapter 16 Finding Frauds with Benford's Law.html
+Introduction.html
+Appendix Practice Project Solutions.html
